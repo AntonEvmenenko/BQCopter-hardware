@@ -2,6 +2,8 @@
 
 Hardware for DIY quadcopter based on STM32. Created in Eagle. Check additional information about this project [here.](https://github.com/AntonEvmenenko/BQCopter)
 
+![alt text](https://github.com/AntonEvmenenko/BQCopter/blob/master/images/board.png)
+
 ## More detailed description:
 
 Processor: STM32F103  
